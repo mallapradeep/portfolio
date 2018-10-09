@@ -1,0 +1,14 @@
+.lg-heading {
+    margin-bottom: 90px;
+
+}
+.logo {
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	align-items: center;
+    align-content: flex-start;
+    margin-bottom: 190px;
+}
+
