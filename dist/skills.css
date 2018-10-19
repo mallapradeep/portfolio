@@ -3,12 +3,19 @@
 
 }
 .logo {
-    display: flex;
+    /* display: flex;
 	flex-direction: row;
 	flex-wrap: nowrap;
 	justify-content: space-between;
 	align-items: center;
     align-content: flex-start;
+    margin-bottom: 190px; */
+    display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+    align-content: space-around;
     margin-bottom: 190px;
 }
 
